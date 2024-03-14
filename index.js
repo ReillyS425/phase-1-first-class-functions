@@ -17,7 +17,7 @@ function returnsANamedFunction() {
     return namedFunction;
 }
 
-returnsANamedFunction();
+returnsANamedFunction()();
 
 ////////////////////////////////////////
 
